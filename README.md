@@ -1,3 +1,4 @@
+![Alt text](https://i.imgur.com/2JwhEqQ.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
